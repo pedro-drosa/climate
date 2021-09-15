@@ -1,0 +1,8 @@
+{
+  "name": "climate",
+  "version": "1.0.0",
+  "main": "script.js",
+  "author": "pedro-drosa",
+  "license": "MIT",
+  "dependencies": {}
+}
