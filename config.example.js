@@ -2,5 +2,5 @@
 // remember to rename this file to config.js
 
 export const config = {
-  appId: 'add the api key here'
-}
+  appId: 'add the api key here',
+};
